@@ -6,8 +6,8 @@ with open("Ejemplo.txt") as fname:
         print("estas son las palbras separadas por comas")
 print(palabras)
 print("Pasamos a la fase 2 del programa")
+print("Se usara el hashing")
 print("Ahora se procede al diccionario")
-
 archivo = open('Ejemplo.txt', 'r')
 palabraHash = archivo.read()
 
